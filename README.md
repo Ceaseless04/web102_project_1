@@ -38,7 +38,7 @@ No obstacles encountered at the moment.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Kristian Vazquez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     You won't be using this file except in compliance with the License.
