@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Card {
+    background-color: #fff;
+    padding-bottom: 20px;
+    box-shadow: 0 15px 25px #817c7c33;
+    font-size: medium;
+    border-radius: 14px;
+    backdrop-filter: blur(2px);
+    text-align: center;
+    margin-bottom: 30px;
+    height: 450px
+}
+
+.Card img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
+div {
+    display: block;
+}
+
+button {
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #cc0606;
+    cursor: pointer;
+    transition: border-color .25s;
+}

@@ -1,11 +1,14 @@
-.App {
-  display: flex;
-}
-
 #main-header {
-  display: block;
   text-align: center;
   font-family: 'Kenia', cursive;
   color: palevioletred;
   text-shadow: black 1px 0 10px;
+}
+
+#left_side {
+  width: 125px;
+}
+
+#right_side {
+  width: 175px;
 }
