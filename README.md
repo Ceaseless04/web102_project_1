@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='file:///C:/Users/krist/Downloads/school/codepath_webdev102/Project_1/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[[file:///C:/Users/krist/Downloads/school/codepath_webdev102/Project_1/Animation.gif](https://submissions.us-east-1.linodeobjects.com/web102/XtI0tVBk.gif)](https://submissions.us-east-1.linodeobjects.com/web102/XtI0tVBk.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
